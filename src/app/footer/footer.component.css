@@ -1,0 +1,70 @@
+.container-fluid {
+    left: 0px;
+    bottom:0px;
+    background-color: #011627;
+    padding-top: 10px;
+    margin-top: 10px;
+}
+
+
+.contato1{
+width: 195px;
+height: 38px;
+font-size: 13px;
+text-align: center;
+line-height: 40px;
+background: #FF9F1C;
+color: #FFFFFF;
+border-radius: 5px;
+margin-top: 20px;
+}
+.contato2{
+    width: 195px;
+    height: 38px;
+    font-size: 13px;
+    line-height: 12px;
+    text-align: center;
+    background: #FF9F1C;
+    color: #FFFFFF;
+    border-radius: 5px;
+    margin-top: 20px;
+    }
+    .contato-espaco{
+        margin-left: 60px;
+    }
+    .grupo{
+    width: 85px;
+    color: #FFFFFF;
+    float: left;
+    margin-top: 50px;
+    margin-left: 10px ;
+    
+    
+    }
+    .grupo2{
+        width: 80px;
+        border: 1px solid red;
+        color: #FFFFFF;
+        float: left;
+        
+        }
+       
+.bg-footer-f   {
+    background: #2EC4B6;
+    height: 10px;
+
+}    
+h4{
+font-family: Ubuntu;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+color: #FFFFFF;
+
+
+}
+
+p{
+    font-family: Ubuntu;
+    color: #FFFFFF;
+}
